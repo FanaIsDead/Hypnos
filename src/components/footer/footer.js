@@ -5,11 +5,11 @@ const Footer = () => {
     return(
         <div id="footer">
             <div id="links">
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4' title='Home'>Home</a>
+                <a href='/' title='Home'>Home</a>
                 |
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4' title='Shop'>Shop</a>
+                <a href='/shop' title='Shop'>Shop</a>
                 |
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4' title='Contact'>Contact</a>
+                <a href='/contact' title='Contact'>Contact</a>
             </div>
 
             <div id="images">

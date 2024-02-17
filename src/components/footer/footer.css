@@ -1,9 +1,12 @@
 
 #footer{
     text-align: center;
-
-    color: #a1bdd4;
-    background-color: #5956a0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #f6f3fb;
+    background-color: #7955d4;
 }
 
 #images{
@@ -18,7 +21,7 @@
 }
 
 #footer a{
-    color: #cfeaef;
+    color:  #f6f3fb;
     margin-right: 5px;
     margin-left: 5px;
 
