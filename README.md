@@ -1,3 +1,14 @@
+#Hypnos Website
+This whole thing was created by FanaIsDead as a school project.
+It won't be comercialy used.
+
+To view the site, clone this repository and run 
+###'npm start'
+in parent folder.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
