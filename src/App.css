@@ -20,8 +20,8 @@
 
 
 body{
-  background-image: linear-gradient(to bottom right,#c4a9f9, #f6f3fb);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(to right,#c4a9f9, #f6f3fb);
+  
   background-size:100vw 200vh;
   background-position: center;
 }
