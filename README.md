@@ -1,9 +1,9 @@
-#Hypnos Website
+Hypnos Website
 This whole thing was created by FanaIsDead as a school project.
 It won't be comercialy used.
 
 To view the site, clone this repository and run 
-###'npm start'
+'npm start'
 in parent folder.
 
 
