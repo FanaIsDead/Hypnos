@@ -1,9 +1,14 @@
 import './contact.css';
 import Footer from '../../components/footer/footer'
+import Header from '../../components/header/header'
 
 const Contact = () => {
     return(
+        <div id='wrapper'>
+        <Header />
         <div id='contact'>
+            
+            
             <h3>Where can you find us</h3>
             <p>
                 <span>Hypnos a.s.</span>
@@ -29,8 +34,9 @@ const Contact = () => {
             <p>
                 <a href='/'>hypnos.com</a>
             </p>
-
-            <Footer />
+        </div>
+        <Footer />
+        
         </div>
     );
 }

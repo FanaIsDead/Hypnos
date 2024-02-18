@@ -1,7 +1,15 @@
+/* Add wrapper with these to every page where is header or footer, so it doesn't overlap with other objects*/
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 
 #contact{
     text-align: center;
     margin-top: 5%;
+    
+    flex: 1;
 }
 
 #contact h3{

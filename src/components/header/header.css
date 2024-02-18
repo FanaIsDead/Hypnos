@@ -1,0 +1,22 @@
+#header{
+    color: #f6f3fb;
+    background-color: #7955d4;
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#navbar img{
+    width: 40px;
+    height: auto;
+
+    margin-left: 20px;
+}
+
+#logo{
+    width: 100px;
+    height: auto;
+}
+
