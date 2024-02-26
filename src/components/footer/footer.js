@@ -13,13 +13,13 @@ const Footer = () => {
             </div>
 
             <div id="images">
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4'>
+                <a href='https://www.instagram.com/accounts/login/'>
                     <img src={require('./images/instagram.png')} alt='Instagram logo'/>
                 </a>
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4'>
+                <a href='https://twitter.com/i/flow/login'>
                     <img src={require('./images/twitter.png')} alt='Twitter logo'/>
                 </a>
-                <a href='https://youtu.be/89ho2I3pLuQ?si=I4ULqyw4L3S2jnT4'>
+                <a href='https://www.youtube.com/'>
                     <img src={require('./images/youtube.png')} alt='Youtube logo'/>
                 </a>
                 

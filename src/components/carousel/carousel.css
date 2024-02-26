@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+#dots{
+    margin-bottom: 50px;
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #c4a9f9;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+    background-color: #7955d4;
+}
+
+#slides {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+    text-align: center; /* Center-align the content */
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+#slides > div {
+    display: inline-block; /* Ensure inline-block for centering */
+}
+
+#slides img {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+/* THIS SHIT DOESNT WORK, NEED TO FIX THE CAROUSEL RESIZING FOR SMALL DEVICES (NOW IT REMOVES THE CAROUSEL BUT I WANT IT TO RESIZE)*/
+@media screen and (max-width: 830px) {
+    #carousel {
+        display: none; /* Adjust maximum width for smaller screens */
+    }
+}
+
