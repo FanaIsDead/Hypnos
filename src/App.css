@@ -1,27 +1,9 @@
 
 
-/* *animation for the spin* */
-/*
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-*/
-
 
 body{
   background-image: linear-gradient(to right,#c4a9f9, #f6f3fb);
-  
-  background-size:100vw 200vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-size:200vw 200vh;
   background-position: center;
 }

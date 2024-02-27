@@ -42,7 +42,7 @@
 }
 
 /* THIS SHIT DOESNT WORK, NEED TO FIX THE CAROUSEL RESIZING FOR SMALL DEVICES (NOW IT REMOVES THE CAROUSEL BUT I WANT IT TO RESIZE)*/
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 700px) {
     #carousel {
         display: none; /* Adjust maximum width for smaller screens */
     }
