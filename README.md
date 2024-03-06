@@ -8,4 +8,4 @@ in parent folder.
 \
 \
 \
-**_Note:_ You will need to install [Node.js](https://nodejs.org/en/download/current) and [npm](https://www.npmjs.com/package/npm).** 
+**_Note:_ You'll need to to have [Node.js](https://nodejs.org/en/download/current) and [npm](https://www.npmjs.com/package/npm) installed.** 
